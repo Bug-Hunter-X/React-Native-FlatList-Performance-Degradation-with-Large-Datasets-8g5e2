@@ -1,0 +1,3 @@
+# React Native FlatList Performance Bug
+
+This repository demonstrates a common performance issue encountered when using the FlatList component in React Native with large datasets.  The bug is caused by inefficient rendering and a lack of proper key management. The solution demonstrates how to implement key extraction correctly to resolve the performance problem.  This leads to significant improvements in scrolling smoothness and overall app responsiveness.
